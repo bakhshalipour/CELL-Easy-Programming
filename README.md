@@ -1,6 +1,6 @@
 # CELL-Easy-Programming
 
-This project targets facilitating [Cell-BE programming](http://moss.csc.ncsu.edu/~mueller/cluster/ps3/CBE_Tutorial_v2.0_15December2006.pdf). [Cell Broadband Engine (Cell-BE)](https://en.wikipedia.org/wiki/Cell_(microprocessor)) is a multi-core processor that employs one large core (PPU) and several small cores (SPEs). Such heterogeneous architecture provides great performance for important classes of applications. 
+This project target is facilitating [Cell-BE programming](http://moss.csc.ncsu.edu/~mueller/cluster/ps3/CBE_Tutorial_v2.0_15December2006.pdf). [Cell Broadband Engine (Cell-BE)](https://en.wikipedia.org/wiki/Cell_(microprocessor)) is a multi-core processor that employs one large core (PPU) and several small cores (SPEs). Such heterogeneous architecture provides excellent performance for important classes of applications. 
 
 Nevertheless, programming of this processor is somehow harder than general-purpose programming. The main reason is that the programmer should handle everything. Most of the hardship of programming comes from dealing with SPE threads. 
 
